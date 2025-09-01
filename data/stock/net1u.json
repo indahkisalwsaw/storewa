@@ -1,0 +1,18 @@
+[
+  {
+    "email": "e@f.com",
+    "password": "Abc123",
+    "profil": "Indonesia",
+    "notes": "Akses via app\naddstockmulti net1u email:c@d.com",
+    "pin": "0000"
+  },
+  {
+    "email": "c@d.com",
+    "password": "xyZ"
+  },
+  {
+    "email": "e@f.com",
+    "password": "Abc123",
+    "pin": "0000"
+  }
+]

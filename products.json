@@ -1,0 +1,247 @@
+[
+  {
+    "id": "netflix",
+    "title": "Netflix UHD 4K",
+    "category": "premium",
+    "price": 25000,
+    "discount": 0,
+    "stock": 0,
+    "sold": 4,
+    "descLines": [
+      "Durasi 30 hari",
+      "Full garansi",
+      "1 profil 1 user anti limit",
+      "Bisa request nama + pin akses"
+    ],
+    "defaultRules": "⚠️ Akun di CTP hanya bergaransi 1x. Jika melanggar aturan, garansi otomatis hangus.\n\n\nAturan Pemakaian:\n\n1. Tidak diperbolehkan menonton lebih dari 1 device secara bersamaan.\n2. Tidak diperbolehkan mengganti password maupun email akun.\n3. Tidak diperbolehkan menggunakan profil member lain.\n4. Tidak diperbolehkan melakukan cancel payment atau membeli extra slot.\n5. Tidak diperbolehkan mengedit profil atau menghapus member lain.\n6. Maksimal login hanya di 2 device (tidak boleh lebih).\n7. Tidak diperbolehkan login menggunakan VPN.\n\n\nKonsekuensi:\n\n👉 Jika melanggar salah satu aturan di atas, garansi dinyatakan hangus tanpa terkecuali.",
+    "defaultNotes": "Jika mengalami kendala saat login, atau mengalami screen limit, silahkan hubungi admin dengan mengetik *cs*.",
+    "cost": 0
+  },
+  {
+    "id": "spo",
+    "title": "Spotify Premium Student",
+    "category": "premium",
+    "price": 12000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Full garansi",
+      "Tidak disarankan untuk Iphone"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "viu",
+    "title": "Viu Premium",
+    "category": "premium",
+    "price": 2500,
+    "discount": 0,
+    "stock": 20,
+    "sold": 0,
+    "descLines": [
+      "Durasi 8 bulan",
+      "Full garansi",
+      "All device",
+      "Anti limit"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "canva",
+    "title": "Canva Pro",
+    "category": "premium",
+    "price": 3000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Full garansi",
+      "Bisa invite pengguna lain"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "chatgpt",
+    "title": "ChatGPT Premium",
+    "category": "premium",
+    "price": 50000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 3 bulan",
+      "Full garansi",
+      "Akun dari kami / pengguna(dengan syarat)"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "provpn",
+    "title": "VPN Proton Plus",
+    "category": "premium",
+    "price": 15000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Full garansi",
+      "Bukan Trial",
+      "Perpanjang jika memungkinkan"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "prounli",
+    "title": "Proton Unlimited",
+    "category": "premium",
+    "price": 15000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Full garansi",
+      "Akses penuh semua produk Proton"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "ilove",
+    "title": "I Love PDF & IMG",
+    "category": "premium",
+    "price": 25000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Private Akun",
+      "Durasi 1 tahun",
+      "Garansi 3 bulan",
+      "Bukan Trial",
+      "Perpanjang jika memungkinkan",
+      "Bisa invite sampai 10 user"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "bstudio",
+    "title": "License Bootsrap Studio",
+    "category": "license",
+    "price": 20000,
+    "discount": 0,
+    "stock": 50,
+    "sold": 0,
+    "descLines": [
+      "Durasi 1 tahun",
+      "Garansi gagal aktivasi"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "pcloud",
+    "title": "Pcloud Storage 10TB",
+    "category": "premium",
+    "price": 25000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Full garansi",
+      "Bukan Trial",
+      "Perpanjang jika memungkinkan",
+      "Mendapatkan penyimpanan sebesar 10TB"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "capcut",
+    "title": "CAPCUT PRO",
+    "category": "premium",
+    "price": 7000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Garansi 7 hari",
+      "Akun private"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "ccl",
+    "title": "Crunchyroll Mega Fan",
+    "category": "premium",
+    "price": 10000,
+    "discount": 0,
+    "stock": 5,
+    "sold": 0,
+    "descLines": [
+      "Durasi 30 hari",
+      "Akun private",
+      "Full garansi"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "ccl1",
+    "title": "Crunchyroll Mega Fan 1 Tahun",
+    "category": "premium",
+    "price": 50000,
+    "discount": 0,
+    "stock": 1,
+    "sold": 0,
+    "descLines": [
+      "Durasi 1 tahun",
+      "Akun Private",
+      "Full garansi"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  },
+  {
+    "id": "test",
+    "title": "test produk",
+    "category": "test",
+    "price": 100000000,
+    "discount": 0,
+    "stock": 1,
+    "sold": 0,
+    "descLines": [
+      "Durasi 1 tahun",
+      "Akun Private",
+      "Full garansi"
+    ],
+    "defaultRules": "",
+    "defaultNotes": "",
+    "cost": 0
+  }
+]
